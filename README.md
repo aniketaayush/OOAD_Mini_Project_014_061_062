@@ -47,7 +47,7 @@ To run and edit this project locally, it's required that you have installed the 
 
 After that, you'll need to clone this repo:
 ```
-git clone https://github.com/aniketaayush/Java-Mini-Project.git
+git clone https://github.com/aniketaayush/OOAD_Mini_Project_014_061_062.git
 ```
 
 ## Setup Environment
